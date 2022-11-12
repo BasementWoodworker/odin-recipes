@@ -1,0 +1,39 @@
+#main-title {
+    font-size: 70px;
+    font-family: "Ink Free", "Helvetica", "sans-serif";
+    background-color: lightblue;
+}
+
+#main-list li {
+    font-size: 40px;
+}
+
+li {
+    font-size: 24px;
+}
+
+h1 {
+    font-size: 50px;
+    background-color: lightblue;
+}
+
+h2 {
+    font-size: 40px;
+    color:brown;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+p {
+    font-size: 20px;
+}
+
+.ancestor .child {
+    color: green;
+}
+
+.child {
+    font-size: 24px;
+}
